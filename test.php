@@ -1,2 +1,2 @@
 ﻿<?php
-echo "hello maged !!";
+echo "hello ahmed!!";
